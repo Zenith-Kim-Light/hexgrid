@@ -6,14 +6,14 @@ This is a fork of <https://github.com/pmcxs/hexgrid>. It's based on the algorith
 
 ## Installation
 
-    go get github.com/Laminator42/hexgrid
+    go get github.com/Zenith-Kim-Light/hexgrid
 
 ## Usage
 
 #### Importing
 
 ```go
-import "github.com/Laminator42/hexgrid"
+import "github.com/Zenith-Kim-Light/hexgrid"
 ```
 
 ### Examples
